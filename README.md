@@ -13,6 +13,7 @@ What time of the day does the account (@dog_rates) post the most?
 
 ## Results
 This post includes the results of this analysis.
+https://medium.com/@abdulsalamalali/analysis-of-dog-rate-508f8c25575c
 
 ### Licensing, Authors, Acknowledgments
 I would like to thank Udacity Luce for providing the data related to the Twitter Account.
